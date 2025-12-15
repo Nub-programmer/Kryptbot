@@ -8,3 +8,5 @@ logs/
 *.log
 spicyvanshpicks.md 
 data/
+.replit
+.local/
