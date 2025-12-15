@@ -1,0 +1,77 @@
+{
+  "name": "Fun Challenges",
+  "description": "Hard questions for bonus points",
+  "default_points": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is shaksams fav anime?",
+      "answer": ["demon slayer"],
+      "hint": "Think about the beginning of something",
+      "points": 100
+    },
+    {
+      "id": 2,
+      "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
+      "answer": ["echo"],
+      "hint": "You might hear me in mountains or caves",
+      "points": 100
+    },
+    {
+      "id": 3,
+      "question": "The more you take, the more you leave behind. What am I?",
+      "answer": ["footsteps"],
+      "hint": "Think about walking",
+      "points": 100
+    },
+    {
+      "id": 4,
+      "question": "What disappears as soon as you say its name?",
+      "answer": ["silence"],
+      "hint": "It's the opposite of noise",
+      "points": 100
+    },
+    {
+      "id": 5,
+      "question": "I have cities, but no houses live there. I have mountains, but no trees grow there. I have water, but no fish swim there. I have roads, but no cars drive there. What am I?",
+      "answer": ["map", "a map"],
+      "hint": "You use me for navigation",
+      "points": 100
+    },
+    {
+      "id": 6,
+      "question": "What can travel around the world while staying in a corner?",
+      "answer": ["stamp", "a stamp"],
+      "hint": "You put me on letters",
+      "points": 100
+    },
+    {
+      "id": 7,
+      "question": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+      "answer": ["fire"],
+      "hint": "I'm hot and bright",
+      "points": 100
+    },
+    {
+      "id": 8,
+      "question": "What has keys but no locks, space but no room, and you can enter but can't go inside?",
+      "answer": ["keyboard", "a keyboard"],
+      "hint": "You're probably using one right now",
+      "points": 100
+    },
+    {
+      "id": 9,
+      "question": "I can be cracked, made, told, and played. What am I?",
+      "answer": ["joke", "a joke"],
+      "hint": "I make people laugh",
+      "points": 100
+    },
+    {
+      "id": 10,
+      "question": "What English word has three consecutive double letters?",
+      "answer": ["bookkeeper", "bookkeeping"],
+      "hint": "Someone who manages financial records",
+      "points": 150
+    }
+  ]
+}

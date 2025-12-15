@@ -1,0 +1,76 @@
+{
+        "name": "Kryptix2k25 - The Ultimate Cryptic Hunt",
+        "description": "Welcome to Kryptix2k25! Solve cryptic puzzles, decode secrets, and prove your skills. Are you ready to crack the code?",
+        "levels": [
+                {
+                        "id": 1,
+                        "question": "🔐 The beginning of your journey: S2x5cHRpeDJrMjU=",
+                        "answer": ["kryptix2k25", "Kryptix2k25"],
+                        "hint": "This is Base64 encoded. Decode it to proceed.",
+                        "points": 100
+                },
+                {
+                        "id": 2,
+                        "question": "I have keys but no locks. I have space but no room. You can enter, but you can't go inside. What am I?",
+                        "answer": ["keyboard", "a keyboard"],
+                        "hint": "You're probably using one right now to answer this.",
+                        "points": 150
+                },
+                {
+                        "id": 3,
+                        "question": "Decipher this Caesar cipher (shift 13): PELCGB",
+                        "answer": ["crypto", "CRYPTO"],
+                        "hint": "ROT13 is a simple substitution cipher. A becomes N, B becomes O...",
+                        "points": 200
+                },
+                {
+                        "id": 4,
+                        "question": "What comes next in this sequence? 1, 1, 2, 3, 5, 8, 13, 21, __",
+                        "answer": "34",
+                        "hint": "Each number is the sum of the previous two.",
+                        "points": 250
+                },
+                {
+                        "id": 5,
+                        "question": "🧩 I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+                        "answer": "echo",
+                        "hint": "Think about sounds that bounce back to you.",
+                        "points": 200
+                },
+                {
+                        "id": 6,
+                        "question": "Decode this binary: 01101000 01110101 01101110 01110100",
+                        "answer": "hunt",
+                        "hint": "Binary to ASCII conversion. Use an online converter if needed.",
+                        "points": 300
+                },
+                {
+                        "id": 7,
+                        "question": "I am the beginning of eternity, the end of time and space, the beginning of every end, and the end of every place. What am I?",
+                        "answer": ["e", "letter e", "the letter e"],
+                        "hint": "Look at the first/last letters of key words in the riddle.",
+                        "points": 250
+                },
+                {
+                        "id": 8,
+                        "question": "🔢 What's the next number? 2, 3, 5, 7, 11, 13, 17, __",
+                        "answer": "19",
+                        "hint": "These are all special numbers in mathematics - they're only divisible by 1 and themselves.",
+                        "points": 300
+                },
+                {
+                        "id": 9,
+                        "question": "Morse code challenge: -.- .-. -.-- .--. - .. -..-",
+                        "answer": ["kryptix", "KRYPTIX"],
+                        "hint": "Dash-dot-dash = K. Use a Morse code translator.",
+                        "points": 350
+                },
+                {
+                        "id": 10,
+                        "question": "🏆 FINAL CHALLENGE: What has cities but no houses, forests but no trees, and water but no fish?",
+                        "answer": "map",
+                        "hint": "Think about something you use for navigation and directions.",
+                        "points": 400
+                }
+        ]
+}

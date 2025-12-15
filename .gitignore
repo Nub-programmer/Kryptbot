@@ -1,0 +1,10 @@
+node_modules/
+config.json
+dist/
+.env
+coverage/
+logs/
+.DS_Store
+*.log
+spicyvanshpicks.md 
+data/

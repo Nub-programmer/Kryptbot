@@ -1,0 +1,32 @@
+{
+  "name": "Dare Challenges",
+  "description": "Fun dares for brave players - 300 points each!",
+  "default_points": 300,
+  "dares": [
+    {
+      "id": 1,
+      "dare": "Send a video of yourself dancing for at least 10 seconds!",
+      "points": 300
+    },
+    {
+      "id": 2,
+      "dare": "Send a goofy photo of yourself - the sillier the better!",
+      "points": 300
+    },
+    {
+      "id": 3,
+      "dare": "I'm sending an image - whoever makes the best meme from it wins the points!",
+      "points": 300
+    },
+    {
+      "id": 4,
+      "dare": "Miss call your teacher on WhatsApp or any other calling app and send proof!",
+      "points": 300
+    },
+    {
+      "id": 5,
+      "dare": "Draw the dragon from the Kryptix logo - whoever draws it the best wins!",
+      "points": 300
+    }
+  ]
+}

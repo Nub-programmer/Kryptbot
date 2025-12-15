@@ -1,0 +1,21 @@
+{
+        "name": "kryptixbot",
+        "version": "1.0.0",
+        "main": "index.js",
+        "scripts": {
+                "dev": "nodemon index.js"
+        },
+        "keywords": [],
+        "author": "",
+        "license": "ISC",
+        "description": "KryptixBot - Discord Cryptic Hunt Bot for Kryptix2k25",
+        "dependencies": {
+                "discord.js": "^14.18.0",
+                "dotenv": "^17.2.0",
+                "sqlite3": "^5.1.7"
+        },
+        "devDependencies": {
+                "nodemon": "^3.1.9",
+                "typescript": "^5.2.2"
+        }
+}

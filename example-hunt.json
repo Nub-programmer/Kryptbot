@@ -1,0 +1,28 @@
+{
+	"name": "Example Cryptic Hunt",
+	"description": "A sample hunt to demonstrate the format",
+	"levels": [
+		{
+			"id": 1,
+			"question": "What has keys but no locks, space but no room, and you can enter but not go in?",
+			"answer": ["keyboard", "a keyboard"],
+			"hint": "You use it to type messages.",
+			"points": 100,
+			"image": "https://cdn.answeroverflow.com/1366881886470668440/image.png"
+		},
+		{
+			"id": 2,
+			"question": "I speak without a mouth and hear without ears. What am I?",
+			"answer": "echo",
+			"hint": "Think about sounds that bounce back.",
+			"points": 150
+		},
+		{
+			"id": 3,
+			"question": "What gets wetter the more it dries?",
+			"answer": ["towel", "a towel"],
+			"hint": "It's used after a shower.",
+			"points": 200
+		}
+	]
+}
