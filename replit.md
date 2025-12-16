@@ -7,6 +7,14 @@ KryptixBot is a Discord bot that enables server administrators to create and run
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
+## Features
+- Make your own hunt with easy to use JSON format (easy to format with an llm)
+- support for hints & images
+- Leaderboard tracking based on points
+- admin suite for managing hunts
+- statistical tracking for players
+- takes 1/2 minutes to selfhost 
+- literally sqlite so no need for a database server
 
 ## System Architecture
 
