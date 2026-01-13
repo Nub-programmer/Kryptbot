@@ -1,4 +1,4 @@
-# KryptixBot - Discord Cryptic Hunt Bot 
+ # KryptixBot - Discord Cryptic Hunt Bot 
 
 > A discord bot letting anyone run a cryptic hunt in their server
 
